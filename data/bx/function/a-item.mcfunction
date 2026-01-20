@@ -1,0 +1,1 @@
+function bx:loot_table/default

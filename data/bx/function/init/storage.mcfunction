@@ -1,0 +1,1 @@
+data modify storage bx: title set value [{"color":"#BBFF00","text":"T"},{"color":"#C4FF20","text":"h"},{"color":"#CCFF40","text":"e "},{"color":"#D5FF60","text":"B"},{"color":"#DDFF80","text":"o"},{"color":"#E6FF9F","text":"x"},{"color":"#EEFFBF","text":"e"},{"color":"#FFFFFF","text":"s"}]
